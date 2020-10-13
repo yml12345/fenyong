@@ -1,0 +1,7 @@
+-
+  url: http://wx-test.d-dou.net/nl/wechat/wallet/info
+  method: get
+  asql:
+    - code=0
+    - msg=成功
+    - success=true

@@ -1,0 +1,15 @@
+createOrder:
+    url: http://wx-test.d-dou.net/nl/wechat/order/createOrder
+    method: post
+    data:
+      "stationId": 1
+      "contactNumber": "18108100211"
+      "contactPerson": "cs"
+      "goodsId": "122"
+      "deductionAmount": 100
+      "orderAmount": "0"
+      "quantity": 1
+      "remark": ""
+      "source": "MP"
+      "specId": "154"
+
